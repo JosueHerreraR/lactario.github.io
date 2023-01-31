@@ -6,16 +6,18 @@
 }
 
 a {
-  color: #5C9F24;
+  color: #D9298F;
 }
 
 a:hover {
-	color: #33782D;
+	color: 
+  #F32F9E
+  ;
 }
 
 /* --- button theme --- */
 .btn-theme {
-  background: #5C9F24;
+  background: #D9298F;
   *background-color: #5C9F24;
 }
 
